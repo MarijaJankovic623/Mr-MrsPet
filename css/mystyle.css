@@ -1,61 +1,55 @@
-.my-brand{
-	background-color: rgb(254, 255, 255);
+.my-body {
+  background-color: #feffff;
 }
-
-.my-body{
-	
-	background-color: rgba(247, 251, 251, 0.99);
+.my-language {
+  background-color: black;
 }
-
-.my-img{
-	
-    width: 100%;
-    height: auto;
-
+.my-language ul {
+  list-style: none;
+  margin: auto;
+  width: 30%;
+  margin-left: 80%;
 }
-
-.my-li-menu{
- 
-	width: 25%;
-	
+.my-language ul li {
+  display: inline !important;
+  width: 20%;
 }
-
-.my-a-menu{
-	color: #101010;
-	
+.my-language ul li a {
+  color: #fffcf6 !important;
+  font-family: Calibri!important;
 }
-
-.navbar-default .navbar-nav>li>a{
-	
-	color:black;
-	
+.my-brand {
+  background-color: #feffff;
 }
-
-.my-lang-nav{
-	color : white;
-	min-height:20px;
-	padding:0px;
-	
+.my-li-menu {
+  width: 25%;
 }
-
-.navbar {min-height: 30px;}
-.navbar-inverse {padding: 0 ; margin: 0; height: 30px; line-height: 30px;}
-
-.navbar-inverse .navbar-nav>li>a{
-	padding-top:0;
-	padding-bottom:0;
-	color: #4bb592;
-	font-size: 15px;
-	padding-right: 15px;
-	padding-left: 15px;
-	text-shadow: 1px 1px #fcfdfd;
+.my-home-box {
+  border: 2px solid #999999;
+  border-radius: 0px;
+  width: 100%;
+  height: 300px;
+  margin-bottom: 20px;
+  margin-top: 20px;
 }
-
-.my-home-box{
-	border: 2px solid #999999;
-	border-radius: 0px;
-	width: 100%;
-	height: 300px;
-	margin-bottom: 20px;
-	margin-top: 20px;
+.my-down-menu {
+  background-color: black;
+  text-align: center;
+  padding-bottom: 5%;
+  padding-top: 5%;
+  color: #fffcf6 !important;
+}
+.my-down-menu a {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  color: #fffcf6 !important;
+  font-family: Calibri!important;
+}
+.my-down-menu p {
+  color: #fffcf6 !important;
+  margin-bottom: 0%;
+}
+.my-footer {
+  text-align: center;
 }
