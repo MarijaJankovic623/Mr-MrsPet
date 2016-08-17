@@ -100,14 +100,14 @@
 .my-down-menu {
   background-color: #202c2f;
   text-align: center;
-  padding-bottom: 0%;
-  padding-top: 3%;
+  padding-bottom: 1% ;
+  padding-top: 1%;
   color: #fffcf6 !important;
 }
 .my-down-menu a {
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 4%;
+  margin-bottom: 1%;
   padding-left: 2%;
   padding-right: 2%;
   color: #fffcf6 !important;
@@ -115,7 +115,7 @@
 }
 .my-down-menu p {
   color: #fffcf6 !important;
-  padding-bottom: 1% !important;
+  padding-bottom: 0.5% !important;
 }
 .my-footer {
   text-align: center;

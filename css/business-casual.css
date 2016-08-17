@@ -4,6 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     background-color: #fbf6f6;
@@ -109,7 +110,7 @@ footer {
 
 footer p {
     margin: 0;
-    padding: 50px 0;
+    padding: 25px 0;
 }
 
 @media screen and (min-width:768px) {
